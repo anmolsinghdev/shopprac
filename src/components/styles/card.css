@@ -1,0 +1,31 @@
+.procard {
+  /* margin: 0rem 1rem; */
+  gap: 5rem;
+}
+.active {
+  font-weight: bold;
+}
+.card2 {
+  text-align: center;
+  margin: 0rem 1rem;
+}
+
+.btnsub {
+  margin-top: 2rem;
+}
+.productHeading {
+  background-color: #ccc;
+  padding: 1rem;
+  height: 4rem;
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+.productHeading:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.card-body {
+  background-color: #ccc;
+  margin-top: 2rem;
+}
